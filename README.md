@@ -209,4 +209,4 @@ Signed by: Tomoko Saito & Meisei Technologies
 ### **Note**
 The Meisei Standard is a living document and may be revised as needed to reflect the evolving needs of the community and projects under Meisei Technologies. Feedback and suggestions are always welcome to enhance its effectiveness.
 
-<sub>made with love by Tomoko</sub>
+<sub>made with love by Tomoko :heart:</sub>
